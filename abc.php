@@ -1,3 +1,4 @@
-<?
-test abc.........
+<?php
+//test abc.........
+echo 'chahat';
 ?>
